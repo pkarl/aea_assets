@@ -4,5 +4,6 @@ TODO:
     - Organize this into something less... horrible
 
 For reference: 
-    - Pete's Embedly API Key - 93f7696827f711e1a6ba4040d3dc5c07
+  - Pete's Embedly Consumer = 245f4fc6280b11e1a6ba4040d3dc5c07
 	- Twitter - assetsturn / Bocoup1
+	- https://github.com/simplegeo/python-oauth2.git
